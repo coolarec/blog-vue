@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build ",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^7.0.1",
+    "@better-scroll/core": "^2.5.1",
+    "@kangc/v-md-editor": "^2.3.18",
+    "ant-design-vue": "^4.1.2",
+    "axios": "^1.6.7",
+    "better-scroll": "^2.5.1",
+    "typeit": "^8.8.3",
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5",
+    "vue3typed": "^0.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^5.3.0",
+    "@vitejs/plugin-vue": "^4.5.2",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8",
+    "vue-tsc": "^1.8.25"
+  }
+}

@@ -1,7 +1,7 @@
 <template>
   <a-flex justify="center" align="center" style="height: 100%;" class="welcome">
     <a-space align="center" size="middle" :wrap="true">
-      <img class="welcomeImg" src="https://hbimg.huaban.com/9df091e3b22143775389a3e05627b72cb1d3df1016f1b2-72NvJG">
+      <img class="welcomeImg" src="https://coolarec-1256561073.cos.ap-nanjing.myqcloud.com/imgblog/20250516192855091.png?imageSlim">
       <div class="welcome-right">
         <a-typography-title>感情迟钝的精灵，</a-typography-title>
         <a-typography-title>读到了爱她的人用一生写尽的情书</a-typography-title>

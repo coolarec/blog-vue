@@ -1,16 +1,16 @@
 <template>
     <a-carousel autoplay dotsClass="dot">
         <div>
-            <img class="indexImg" src="https://bu.dusays.com/2021/10/23/7b596b25f90e0.jpg#vwid=4000&vhei=3000" alt="">
+            <img class="indexImg" src="https://coolarec-1256561073.cos.ap-nanjing.myqcloud.com/imgblog%2F20250126233941348.jpg" alt="">
         </div>
         <div>
-            <img class="indexImg" src="https://bu.dusays.com/2021/10/25/6b0435f73794a.JPG" alt="">
+            <img class="indexImg" src="https://coolarec-1256561073.cos.ap-nanjing.myqcloud.com/imgblog%2F20250218111749781.png" alt="">
         </div>
         <div>
-            <img class="indexImg" src="https://bu.dusays.com/2021/10/25/74b186a1f0f7e.JPG" alt="">
+            <img class="indexImg" src="https://coolarec-1256561073.cos.ap-nanjing.myqcloud.com/imgblog%2F20250220163536537.jpg  " alt="">
         </div>
         <div>
-            <img class="indexImg" src="https://bu.dusays.com/2021/10/25/db675435f17e9.JPG" alt="">
+            <img class="indexImg" src="https://coolarec-1256561073.cos.ap-nanjing.myqcloud.com/imgblog%2F20250125203720809.jpg" alt="">
         </div>
     </a-carousel>
     <motto />
